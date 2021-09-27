@@ -1,0 +1,4 @@
+logfile.txt
+
+#Ignore all .png files 
+*.png
